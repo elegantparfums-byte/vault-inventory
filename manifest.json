@@ -1,0 +1,25 @@
+{
+  "name": "Elegant Parfums Inventory",
+  "short_name": "EP Inventory",
+  "description": "Fragrance and Home Care Inventory Manager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#c9a96e",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=EP&backgroundColor=0a0a0a&textColor=c9a96e",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=EP&backgroundColor=0a0a0a&textColor=c9a96e",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
